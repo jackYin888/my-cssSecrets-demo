@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "*",
+    "gulp": "*",    
+    "gulp-watch": "*"
+  }
+}
